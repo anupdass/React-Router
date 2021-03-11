@@ -1,0 +1,27 @@
+.main{
+    background-color: rgb(255, 255, 255);
+    margin: 20px;
+    width: 350px;
+    height: 350px;
+    border-radius: 5px;
+    box-shadow:  0 4px 20px rgb(0 0 0 / 10%);
+    padding: 10px;
+    
+}
+.team-logo img{
+    width: 100px;
+    padding: 10px;
+    vertical-align: middle;
+    margin-top: 20px;
+}
+div{
+    text-align: center;
+}
+.team-btn{
+    border: none;
+    border-radius: 5px;
+    background-color: #93329e;
+    padding: 10px 25px;
+    color: #fff;
+    transition: .5s;
+}

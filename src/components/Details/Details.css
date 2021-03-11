@@ -1,0 +1,14 @@
+.top-section{
+    display: flex;
+    padding: 20px;
+    background-color: #93329e;
+    color: #ffffff;
+}
+.details,
+.detailsMedia {
+    flex: 1 1 50%;
+}
+
+.mediaImg {
+    width: 100%;
+}
